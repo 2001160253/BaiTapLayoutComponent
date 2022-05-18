@@ -1,0 +1,22 @@
+.banner {
+  padding: 48px 0;
+}
+.banner .container {
+  max-width: 1320px;
+  padding: 0 48px;
+}
+.banner .container .row {
+  padding: 48px;
+}
+
+h1 {
+  font-size: 48px;
+}
+p {
+  font-size: 24px;
+}
+
+.btn {
+  width: 150px;
+  margin: auto;
+}
